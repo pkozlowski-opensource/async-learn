@@ -2,9 +2,11 @@
   "name": "ts-starter",
   "dependencies": {
     "@types/jasmine": "^3.5.10",
+    "@types/node": "^14.0.5",
     "chokidar-cli": "^2.1.0",
     "jasmine": "^3.5.0",
     "jasmine-ts-console-reporter": "^3.1.1",
+    "promises-aplus-tests": "^2.1.2",
     "typescript": "^3.9.3"
   },
   "scripts": {
